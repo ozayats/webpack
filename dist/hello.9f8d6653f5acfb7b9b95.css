@@ -1,0 +1,18 @@
+/*!***************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/sayHi/sayHi.scss ***!
+  \***************************************************************************************************************/
+.hiButton {
+  display: block;
+  margin-bottom: 30px;
+  width: 100px;
+  height: 36px;
+  border-radius: 5px;
+  background-color: aquamarine;
+  color: chocolate;
+}
+/*!*******************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/heading/heading.scss ***!
+  \*******************************************************************************************************************/
+.heading {
+  color: gray;
+}
